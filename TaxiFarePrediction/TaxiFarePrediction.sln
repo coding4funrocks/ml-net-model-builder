@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxiFarePrediction", "TaxiFarePrediction\TaxiFarePrediction.csproj", "{69E8FD9E-21D5-442A-967B-DF34118520DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxiFarePredictionML.ConsoleApp", "TaxiFarePredictionML.ConsoleApp\TaxiFarePredictionML.ConsoleApp.csproj", "{236581DB-B136-4993-A5C4-699BE81F8A92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxiFarePredictionML.Model", "TaxiFarePredictionML.Model\TaxiFarePredictionML.Model.csproj", "{29B51F41-0415-4756-A540-B06631071220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E8FD9E-21D5-442A-967B-DF34118520DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E8FD9E-21D5-442A-967B-DF34118520DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E8FD9E-21D5-442A-967B-DF34118520DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E8FD9E-21D5-442A-967B-DF34118520DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{236581DB-B136-4993-A5C4-699BE81F8A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236581DB-B136-4993-A5C4-699BE81F8A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236581DB-B136-4993-A5C4-699BE81F8A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236581DB-B136-4993-A5C4-699BE81F8A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29B51F41-0415-4756-A540-B06631071220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B51F41-0415-4756-A540-B06631071220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B51F41-0415-4756-A540-B06631071220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B51F41-0415-4756-A540-B06631071220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B210AC05-FD9D-4EC0-9E16-0E159F48DFA4}
+	EndGlobalSection
+EndGlobal
