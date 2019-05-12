@@ -3,3 +3,4 @@ Samples for [ML.NET Tutorial - Get started in 10 minutes](https://dotnet.microso
 
 * Sentiment analysis
 * Taxi fare prediction
+* Dogs vs. cats image classification

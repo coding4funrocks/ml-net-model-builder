@@ -1,0 +1,6 @@
+Gunnandreassen, [Flat Coated Retriever](https://commons.wikimedia.org/wiki/File:Flat_Coated_Retriever_-_black.jpg), [GNU Free Documentation License, Version 1.2]
+Sixtyweb, [Yellow Labrador Retriever](https://commons.wikimedia.org/wiki/File:Yellow_Labrador_Retriever_2.jpg), [Creative Commons Attribution-Share Alike 3.0 Unported]
+Mllefantine, [Zagreb's Temptress at TNG at 2 years](https://commons.wikimedia.org/wiki/File:2_yr_old_Dalmatian.jpg), [public domain]
+Seedermaster~commonswiki, [Lilith, a black cat found as a kitten in a supermarket parking lot.](https://commons.wikimedia.org/wiki/File:Blackcat-Lilith.jpg), [Creative Commons Attribution-Share Alike 2.5 Generic]
+Caspian blue, [Orange and white tabby cat sitting on fallen leaves](https://commons.wikimedia.org/wiki/File:Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01A.jpg), [Creative Commons Attribution-Share Alike 2.0 Generic]
+Caspian blue, [Gatos cats 7](https://commons.wikimedia.org/wiki/File:Gatos_cats_7_cropped.jpg), [GNU Free Documentation License, Version 1.2]
